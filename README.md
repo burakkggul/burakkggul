@@ -8,16 +8,6 @@ I've been creating free and open source projects since 2019. I believe in releas
 
 I work as a software engineer at Orion BT and contribute to free and open source projects in my spare time. I aim to create free time for myself to contribute more to free and open source projects in the future.
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=manjaro&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/burakkggul/burakkggul">
